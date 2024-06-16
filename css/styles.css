@@ -94,7 +94,7 @@ a {
 }
 .paragraph {
   font-size: 16px;
-  line-height: 1, 5;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
 }
@@ -104,10 +104,11 @@ a {
 .section-three-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 11;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  text-align: center;
 }
 .section-three-list {
   background-color: #ffffff;
